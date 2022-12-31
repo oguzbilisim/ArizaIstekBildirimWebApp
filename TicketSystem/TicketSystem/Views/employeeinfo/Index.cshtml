@@ -1,0 +1,155 @@
+﻿@model EntityLayer.Concrete.Multipledata
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_TestLayout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Index</title>
+    <style>
+        body {
+            font-family: Arial;
+        }
+
+        /* Style the tab */
+        .tab {
+            overflow: hidden;
+            border: 1px solid #ccc;
+            background-color: #f1f1f1;
+        }
+
+            /* Style the buttons inside the tab */
+            .tab button {
+                background-color: inherit;
+                float: left;
+                border: none;
+                outline: none;
+                cursor: pointer;
+                padding: 14px 16px;
+                transition: 0.3s;
+                font-size: 17px;
+            }
+
+                /* Change background color of buttons on hover */
+                .tab button:hover {
+                    background-color: #ddd;
+                }
+
+                /* Create an active/current tablink class */
+                .tab button.active {
+                    background-color: #ccc;
+                }
+
+        /* Style the tab content */
+        .tabcontent {
+            display: none;
+            padding: 6px 12px;
+            border: 1px solid #ccc;
+            border-top: none;
+        }
+    </style>
+</head>
+<body>
+
+    <h2></h2>
+    <p>Hoş Geldin; @ViewBag.name2</p>
+
+    <div class="tab">
+        <button class="tablinks" onclick="openCity(event, 'employee')">Yeni Bildirim</button>
+        <button class="tablinks" onclick="openCity(event, 'request')">Yeni Talep</button>
+    </div>
+
+    <div id="employee" class="tabcontent">
+        <br />
+        <table id="myTable" class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>DEPARTMAN</th>
+                    <th>AD SOYAD</th>
+                    <th>BAŞLIK</th>
+                    <th>AÇIKLAMA</th>
+                    <th>DURUMU</th>
+                    <th>CEVAP</th>
+                    <th>SEVİYE</th>
+                    <th>TARİH</th>
+                </tr>
+            </thead>
+            @foreach (var x in Model.Employeeifo)
+            {
+                <tr>
+                    <td>@x.id</td>
+                    <td>@x.unitname.UnitName</td>
+                    <td>@x.name</td>
+                    <td>@x.title.TitleName</td>
+                    <td>@x.description</td>
+                    <td>@x.status.StatusName</td>
+                    <td>@x.feedback</td>
+                    <td>@x.level.LevelName</td>
+                    <td>@x.date?.ToString("dd/MM/yyyy HH:mm:ss")</td>
+
+                </tr>
+            }
+        </table>
+        <a href="/employeeinfo/AddInfo" class="btn btn-primary">EKLE</a>
+    </div>
+
+    <div id="request" class="tabcontent">
+        <h3>Yeni Talep</h3>
+        <table id="myTable" class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>AÇIKLAMA</th>
+                    <th>RADİO BUTON</th>
+                </tr>
+            </thead>
+            @foreach (var x in Model.Request)
+            {
+                <tr>
+                    <td>@x.RequestID</td>
+                    <td>@x.RequestDescription</td>
+                    <td>@x.RequestRdoBtn</td>
+
+                </tr>
+            }
+        </table>
+        <a href="/request/AddInfo" class="btn btn-primary">EKLE</a>
+    </div>
+
+</body>
+</html>
+
+
+<script>
+    function openCity(evt, cityName) {
+        var i, tabcontent, tablinks;
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+        }
+        tablinks = document.getElementsByClassName("tablinks");
+        for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+        document.getElementById(cityName).style.display = "block";
+        evt.currentTarget.className += " active";
+    }
+</script>
+
+
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+            $('#myTable').DataTable({
+                "language": {
+                    "url": "//cdn.datatables.net/plug-ins/9dcbecd42ad/i18n/Turkish.json"
+                }
+            });
+        });
+    </script>
+}

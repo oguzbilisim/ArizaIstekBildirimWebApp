@@ -1,0 +1,56 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="~/lib/datatables/css/jquery.dataTables.css" rel="stylesheet" />
+
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/bootbox.js/bootbox.js"></script>
+</head>
+<body>
+
+
+
+    <!-- Sidebar -->
+    <div class="w3-sidebar w3-light-grey w3-bar-block" style="width:15%">
+        <h3 class="w3-bar-item">Menu</h3>
+        <a href="/employeeinfo/Index" class="w3-bar-item w3-button">Talepler</a>
+        @*@if (@ViewBag.role == "A")
+        { }*@
+            <a href="/administrator/Index" class="w3-bar-item w3-button">Admin Girişi</a>
+        <a href="/login/LogOut" class="w3-bar-item w3-button">Çıkış</a>
+    </div>
+
+    <!-- Page Content -->
+    <div style="margin-left:15%">
+        <div class="w3-container w3-teal">
+            <h1>Ticket System</h1>
+        </div>
+        <div class="w3-container">
+            @RenderBody()
+        </div>
+    </div>
+    <environment include="Development">
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.js"></script>
+    </environment>
+    <script src="~/lib/datatables/js/jquery.dataTables.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootbox.js/4.4.0/bootbox.min.js"></script>
+    @RenderSection("Scripts", required: false)
+
+
+</body>
+
+</html>
+

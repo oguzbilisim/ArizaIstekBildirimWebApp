@@ -1,0 +1,51 @@
+C:\Users\Cinkaya\source\repos\TicketSystem\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\Cinkaya\source\repos\TicketSystem\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\Cinkaya\source\repos\TicketSystem\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Cinkaya\source\repos\TicketSystem\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Cinkaya\source\repos\TicketSystem\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Cinkaya\source\repos\TicketSystem\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Cinkaya\source\repos\TicketSystem\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Cinkaya\source\repos\TicketSystem\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Cinkaya\source\repos\TicketSystem\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Cinkaya\source\repos\TicketSystem\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cinkaya\source\repos\TicketSystem\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Cinkaya\source\repos\TicketSystem\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Cinkaya\source\repos\TicketSystem\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Cinkaya\source\repos\TicketSystem\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Cinkaya\source\repos\TicketSystem\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\Cinkaya\source\repos\TicketSystem\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Cinkaya\source\repos\TicketSystem\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb

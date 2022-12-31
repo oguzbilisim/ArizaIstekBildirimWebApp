@@ -1,0 +1,36 @@
+C:\Users\Cinkaya\source\repos\TicketSystem\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\Cinkaya\source\repos\TicketSystem\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Cinkaya\source\repos\TicketSystem\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Cinkaya\source\repos\TicketSystem\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Cinkaya\source\repos\TicketSystem\EntityLayer\obj\Debug\net5.0\EntityLayer.csprojAssemblyReference.cache
+C:\Users\Cinkaya\source\repos\TicketSystem\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cinkaya\source\repos\TicketSystem\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Cinkaya\source\repos\TicketSystem\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Cinkaya\source\repos\TicketSystem\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Cinkaya\source\repos\TicketSystem\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\Cinkaya\source\repos\TicketSystem\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Cinkaya\source\repos\TicketSystem\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\EntityLayer\obj\Debug\net5.0\EntityLayer.csprojAssemblyReference.cache
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\EntityLayer\obj\Debug\net5.0\EntityLayer.csprojAssemblyReference.cache
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb

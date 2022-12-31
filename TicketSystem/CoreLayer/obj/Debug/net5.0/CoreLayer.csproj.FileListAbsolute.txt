@@ -1,0 +1,36 @@
+C:\Users\Cinkaya\source\repos\TicketSystem\CoreLayer\bin\Debug\net5.0\CoreLayer.deps.json
+C:\Users\Cinkaya\source\repos\TicketSystem\CoreLayer\bin\Debug\net5.0\CoreLayer.dll
+C:\Users\Cinkaya\source\repos\TicketSystem\CoreLayer\bin\Debug\net5.0\ref\CoreLayer.dll
+C:\Users\Cinkaya\source\repos\TicketSystem\CoreLayer\bin\Debug\net5.0\CoreLayer.pdb
+C:\Users\Cinkaya\source\repos\TicketSystem\CoreLayer\obj\Debug\net5.0\CoreLayer.csprojAssemblyReference.cache
+C:\Users\Cinkaya\source\repos\TicketSystem\CoreLayer\obj\Debug\net5.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cinkaya\source\repos\TicketSystem\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\Cinkaya\source\repos\TicketSystem\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfo.cs
+C:\Users\Cinkaya\source\repos\TicketSystem\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\Cinkaya\source\repos\TicketSystem\CoreLayer\obj\Debug\net5.0\CoreLayer.dll
+C:\Users\Cinkaya\source\repos\TicketSystem\CoreLayer\obj\Debug\net5.0\ref\CoreLayer.dll
+C:\Users\Cinkaya\source\repos\TicketSystem\CoreLayer\obj\Debug\net5.0\CoreLayer.pdb
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\CoreLayer\bin\Debug\net5.0\CoreLayer.deps.json
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\CoreLayer\bin\Debug\net5.0\CoreLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\CoreLayer\bin\Debug\net5.0\ref\CoreLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\CoreLayer\bin\Debug\net5.0\CoreLayer.pdb
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\CoreLayer\obj\Debug\net5.0\CoreLayer.csprojAssemblyReference.cache
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\CoreLayer\obj\Debug\net5.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfo.cs
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\CoreLayer\obj\Debug\net5.0\CoreLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\CoreLayer\obj\Debug\net5.0\ref\CoreLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (6)\TicketSystem\CoreLayer\obj\Debug\net5.0\CoreLayer.pdb
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\CoreLayer\bin\Debug\net5.0\CoreLayer.deps.json
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\CoreLayer\bin\Debug\net5.0\CoreLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\CoreLayer\bin\Debug\net5.0\ref\CoreLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\CoreLayer\bin\Debug\net5.0\CoreLayer.pdb
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\CoreLayer\obj\Debug\net5.0\CoreLayer.csprojAssemblyReference.cache
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\CoreLayer\obj\Debug\net5.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfo.cs
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\CoreLayer\obj\Debug\net5.0\CoreLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\CoreLayer\obj\Debug\net5.0\ref\CoreLayer.dll
+C:\Users\Cinkaya\Desktop\New folder (3)\TicketSystem\CoreLayer\obj\Debug\net5.0\CoreLayer.pdb

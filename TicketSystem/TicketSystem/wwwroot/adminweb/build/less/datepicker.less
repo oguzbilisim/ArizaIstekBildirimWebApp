@@ -1,0 +1,33 @@
+.box {
+  .datepicker-inline {
+    &,
+    .datepicker-days {
+      &,
+      > table {
+        width: 100%;
+        td {
+          &:hover {
+            background-color: rgba(255, 255, 255, .3);
+          }
+          &.day {
+            &.old,
+            &.new {
+              color: #777;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.datepicker {
+    table {
+        &.table-condensed {
+            td,
+            th {
+                padding: 5px;
+            }
+        }
+    }
+}

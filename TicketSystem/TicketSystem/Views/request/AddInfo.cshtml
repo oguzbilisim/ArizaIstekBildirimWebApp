@@ -1,0 +1,34 @@
+﻿@model EntityLayer.Concrete.request
+@{
+    ViewData["Title"] = "AddInfo";
+    Layout = "~/Views/Shared/_TestLayout.cshtml";
+}
+
+@using (Html.BeginForm("AddInfo", "request", FormMethod.Post))
+{
+
+    <b>Açıklama</b>
+    @Html.TextBoxFor(x => x.RequestDescription, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.RequestDescription)
+    <br />
+
+
+    <div class="form-group">
+        @Html.LabelFor(x => x.RequestRdoBtn, htmlAttributes: new { @class = "control-label col-md-2" })
+        @Html.ValidationMessageFor(x => x.RequestRdoBtn)
+        <div class="col-md-10">
+            @Html.RadioButton("RequestRdoBtn", "A") AA
+            @Html.RadioButton("RequestRdoBtn", "B") BB
+            @Html.RadioButton("RequestRdoBtn", "C") CC
+            @Html.RadioButton("RequestRdoBtn", "D") DD
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Talep Ekle" class="btn btn-default" />
+        </div>
+    </div>
+
+}
+

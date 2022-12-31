@@ -1,0 +1,76 @@
+﻿@model EntityLayer.Concrete.Multipledata
+
+@{
+    ViewData["Title"] = "AddInfo";
+    Layout = "~/Views/Shared/_TestLayout.cshtml";
+}
+
+@*@using (Html.BeginForm("AddInfo", "employeeinfo", FormMethod.Post))
+    {*@
+
+
+<form class="form-group" method="post">
+
+    <b>Kullanıcı ID</b>
+
+    <div>
+        @ViewBag.id
+    </div>
+
+
+    @* @Html.TextBoxFor(x => x.Login.Select(u=>u.LoginID.Equals(@ViewBag.id)).First(), new { @readonly = true, @class = "form-control" })
+    *@
+
+    <br />
+
+    <b>Departman Adı</b>
+    @Html.DropDownListFor(x => x.Employeeifo.First().unitname.UnitNameID, (List<SelectListItem>)ViewBag.vls2, new { @class = "form-control" })
+    <br />
+
+    <b>Ad Soyad</b>
+    <div>
+        @ViewBag.name
+    </div>
+    @* @Html.TextBoxFor(x => x.Login.Select(u => u.LoginID.Equals(Convert.ToInt16(@ViewBag.id))), new { @readonly = true, @class = "form-control" })
+    *@
+    @*@Html.ValidationMessageFor(x => x.name)*@
+    <br />
+
+    <b>Başlık</b>
+    @Html.DropDownListFor(x => x.Employeeifo.First().title.TitleID, (List<SelectListItem>)ViewBag.vls4, new { @class = "form-control" })
+    <br />
+
+    <b>Açıklama</b>
+    @Html.TextBoxFor(x => x.Employeeifo.First().description, new { @class = "form-control" })
+    @*@Html.ValidationMessageFor(x => x.description)*@
+    <br />
+
+    <b>Seviye</b>
+    @Html.DropDownListFor(x => x.Employeeifo.First().level.LevelID, (List<SelectListItem>)ViewBag.vls3, new { @class = "form-control" })
+    <br />
+
+    <b>Durumu</b>
+    @Html.DropDownListFor(x => x.Employeeifo.First().status.StatusID, (List<SelectListItem>)ViewBag.dgr, new { @class = "form-control" })
+    <br />
+
+    <button class="btn btn-info" id="btn1">Departman Ekle</button>
+
+</form>
+
+
+
+
+<script>
+    $('#btn1').click(function () {
+        Swal.fire({
+            position: 'top-end',
+            icon: 'success',
+            title: 'Yeni Talep Eklendi',
+            showConfirmButton: false,
+            timer: 10500
+        })
+    });
+
+</script>
+
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>

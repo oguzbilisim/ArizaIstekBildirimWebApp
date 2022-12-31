@@ -1,0 +1,39 @@
+﻿@model EntityLayer.Concrete.employeeinfo
+@{
+    ViewData["Title"] = "GetInfo";
+    Layout = "~/Views/Shared/_TestLayout.cshtml";
+}
+
+<br />
+@using (Html.BeginForm("UpdateInfo", "administrator", FormMethod.Post))
+{
+    <b>ID</b>
+    @Html.TextBoxFor(x => x.id, new { @class = "form-control" })
+    <br />
+
+    <b>Durum</b>
+    @Html.DropDownListFor(x => x.StatusID, (List<SelectListItem>)ViewBag.dgr, new { @class = "form-control" })
+    <br />
+
+    <b>Cevap</b>
+    @Html.TextBoxFor(x => x.feedback, new { @class = "form-control" })
+    <br />
+
+    <button id="btn2" class="btn btn-default" style="background-color:#ff6a00; color:white;">Bilgileri Güncelle</button>
+}
+
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+
+<script>
+    $('#btn2').click(function () {
+        Swal.fire({
+            position: 'top-end',
+            icon: 'success',
+            title: 'Geri Bildirim Eklendi',
+            showConfirmButton: false,
+            timer: 5500
+        })
+    });
+
+</script>
